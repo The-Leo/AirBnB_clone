@@ -64,7 +64,7 @@ In **Non-interactive mode**, the shell will need to be run with a command input 
 ```
 $ echo "help" | ./console.py
 (hbnb)
-
+```
 
 
 
