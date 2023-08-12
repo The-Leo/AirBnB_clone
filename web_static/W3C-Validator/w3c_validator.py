@@ -120,4 +120,4 @@ if __name__ == "__main__":
 
     """execute tests, then exit. Exit status = # of errors (0 on success)
     """
-    sys.exit(__files_loop()
+    sys.exit(__files_loop())
