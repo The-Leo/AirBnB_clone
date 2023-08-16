@@ -10,4 +10,4 @@ class City(BaseModel):
 
     def __init__(self, *args, **kwargs):
         '''Initializes attributes for the city class'''
-        super().__init__(*args, **kwargs
+        super().__init__(*args, **kwargs)

@@ -51,4 +51,4 @@ class BaseModel():
                 object_dict[key] = datetime.datetime.isoformat(
                     self.__dict__[key])
         object_dict['__class__'] = self.__class__.__name__
-        return (object_dict
+        return (object_dict)
